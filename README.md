@@ -1,7 +1,6 @@
-### Hi there 👋
+<img src="https://pbs.twimg.com/profile_banners/1276520149324095488/1603728376/1500x500" alt="twitter banner" />
 
-<!--
-**PugConDoin/PugConDoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
