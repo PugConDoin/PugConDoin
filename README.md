@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1276520149324095488/1603728376/1500x500" alt="twitter banner" />
+<img src="https://twitter.com/nitecoda1/header_photo/1500x500" alt="twitter banner" />
 
 ### Hi there and welcome to the niteCoda's GitHub page 👋
 
